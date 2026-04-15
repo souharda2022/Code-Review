@@ -1,0 +1,16 @@
+.venv/
+chromadb-data/
+__pycache__/
+*.py[cod]
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+.DS_Store
+.vscode/
